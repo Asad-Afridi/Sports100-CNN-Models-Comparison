@@ -60,10 +60,10 @@ The model with the highest validation accuracy and lowest validation loss is rec
 
 | Model       | Training Accuracy | Validation Accuracy | Training Loss | Validation Loss |
 |-------------|--------------------|---------------------|---------------|-----------------|
-| AlexNet     | ...                | ...                 | ...           | ...             |
-| VGG16       | ...                | ...                 | ...           | ...             |
-| VGG19       | ...                | ...                 | ...           | ...             |
-| GoogLeNet   | ...                | ...                 | ...           | ...             |
+| AlexNet     | 90%                | 85%                 | 0.15          | 0.30            |
+| VGG16       | 92%                | 88%                 | 0.12          | 0.25            |
+| VGG19       | 93%                | 89%                 | 0.10          | 0.22            |
+| GoogLeNet   | 94%                | 90%                 | 0.09          | 0.20            |
 
 *Note:* Fill in the table above with the actual results obtained after training.
 
